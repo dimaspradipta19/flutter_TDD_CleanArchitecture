@@ -1,16 +1,9 @@
 # flutter_tdd_clean_architecture
 
-A new Flutter project.
+A new Flutter project for learn how to implement TDD and Clean Architeture in Flutter Application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is for educational purpose, i build this repository based on Resocoder tutorials about TDD and Clean Architecture in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+in the website and youtube video, this tutorial is a little bit outdated, so im trying to upgrade it to the newest version of Flutter and Dart Version using the null safety version. And also i changed the mockito and replace it with mocktail for the testing
